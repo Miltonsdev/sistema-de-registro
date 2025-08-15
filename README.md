@@ -4,8 +4,15 @@
   </head>
   <body>
     <h1>
-      Estado de proyecto en contrucción
+      Sistema de Registro - GitHub
     </h1>
-      
+      <ul>
+        <li>Estado del proyecto en construcción</li>
+        <li>Ahora se va crear el archivo app.js</li>
+      </ul>
+        <blockquote>
+          npm install react
+        </blockquote>
+          
   </body>
 </html>
