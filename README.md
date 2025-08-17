@@ -13,6 +13,6 @@
         <blockquote>
           npm install react
         </blockquote>
-          
+    <h2>Sistema de Registro 2</h2>
   </body>
 </html>
